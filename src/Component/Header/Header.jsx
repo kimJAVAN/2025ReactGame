@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <nav>
-        <NavLink to="/" className={({ isActive }) => isActive ? 'active' : ''}>TicTacToe</NavLink>
+        <NavLink to="/2025ReactGame" className={({ isActive }) => isActive ? 'active' : ''}>TicTacToe</NavLink>
         <NavLink to="/baseball" className={({ isActive }) => isActive ? 'active' : ''}>Number Baseball</NavLink>
         <NavLink to="/click" className={({ isActive }) => isActive ? 'active' : ''}>Click Speed</NavLink>
         <NavLink to="/card" className={({ isActive }) => isActive ? 'active' : ''}>Card Game</NavLink>
