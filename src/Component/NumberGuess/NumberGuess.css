@@ -1,0 +1,42 @@
+.number-guess {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.number-guess input {
+  width: 120px;
+  padding: 5px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.number-guess button {
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.number-guess .logs {
+  margin-top: 20px;
+  text-align: left;
+  display: inline-block;
+}
+
+.number-guess .message {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+.number-guess .message.win {
+  color: green;
+}
+
+.number-guess .message.lose {
+  color: red;
+}
+
+.number-guess .restart {
+  margin-left: 10px;
+  padding: 5px 15px;
+  font-size: 16px;
+}
