@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/2025ReactGame/static/css/main.52f95664.css",
-    "main.js": "/2025ReactGame/static/js/main.3cbd7834.js",
+    "main.js": "/2025ReactGame/static/js/main.de6d4aa2.js",
     "static/js/453.b80deef7.chunk.js": "/2025ReactGame/static/js/453.b80deef7.chunk.js",
     "index.html": "/2025ReactGame/index.html",
     "main.52f95664.css.map": "/2025ReactGame/static/css/main.52f95664.css.map",
-    "main.3cbd7834.js.map": "/2025ReactGame/static/js/main.3cbd7834.js.map",
+    "main.de6d4aa2.js.map": "/2025ReactGame/static/js/main.de6d4aa2.js.map",
     "453.b80deef7.chunk.js.map": "/2025ReactGame/static/js/453.b80deef7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f95664.css",
-    "static/js/main.3cbd7834.js"
+    "static/js/main.de6d4aa2.js"
   ]
 }
