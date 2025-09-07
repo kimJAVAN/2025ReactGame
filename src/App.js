@@ -12,7 +12,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<TicTacToe />} />
+        <Route path="/2025ReactGame" element={<TicTacToe />} />
         <Route path="/baseball" element={<NumberBaseball />} />
         <Route path="/click" element={<ClickSpeedTest />} />
         <Route path="/card" element={<CardGame />} />
